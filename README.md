@@ -1,11 +1,7 @@
-## Hi there 👋
 
 
-**MukuSick2/MukuSick2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Mukund Malik</h1>
-<h3 align="center">AI/ML Engineer | Data Science </h3>
+<h3 align="center">AI/ML Engineer | Data Science | Innovator </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvkajla0001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
