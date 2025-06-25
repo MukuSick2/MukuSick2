@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Mukund Malik</h1>
 <h3 align="center">AI/ML Engineer | Data Science | Innovator </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvkajla0001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MukuSick2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
