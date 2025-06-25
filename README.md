@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **MukuSick2/MukuSick2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ---
 
 🧰 **Tech Stack**
-```bash
+```bash  
 Languages:       Python, Java, SQL, JavaScript
 Frameworks:      PyTorch, TensorFlow, Scikit-learn, HuggingFace, OpenCV
 Web Tools:       FastAPI, Streamlit, React, Node.js, Express
@@ -42,4 +42,3 @@ Infra/DevOps:    Docker, Git, VSCode, Railway, Firebase
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
