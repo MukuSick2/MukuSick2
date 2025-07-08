@@ -61,4 +61,4 @@ Infra/DevOps:    Docker, Git, VSCode, Firebase
 
 ---
 
-<p align="center">🚀 Built with passion by <a href="https://github.com/MukuSick2">Dhruv Kajla</a></p>
+<p align="center">🚀 Built with passion by <a href="https://github.com/MukuSick2">MukuSick2</a></p>
